@@ -3,7 +3,9 @@ This JavaScript library provides essential utility functions for website develop
 Utility Functions
 
 getRandomInt(min, max): Generates a random integer between min and max.
+
 isInArray(arr, element): Checks if element exists in the arr.
+
 shuffleArray(arr): Shuffles the elements of arr in place.
 
 Example usage of getRandomInt:
