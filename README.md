@@ -1,4 +1,4 @@
-This JavaScript library provides essential utility functions for website development.
+This gives essential utility functions for website development.
 
 Utility Functions
 
